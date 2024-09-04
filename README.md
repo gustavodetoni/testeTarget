@@ -2,10 +2,10 @@
 
 1) Resposta: 91.
 
-2) Ex2.py
+2) [Exercício](Ex2.py)
 
-3) Ex3.py
+3) [Exercício](Ex3.py)
 
-4) Ex4.py
+4) [Exercício](Ex4.py)
 
-5) Ex5.py
+5) [Exercício](Ex5.py)
